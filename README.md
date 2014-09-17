@@ -11,7 +11,7 @@ Summaries of the systems is currently in place at institutions
 
 | | Yale Art Gallery | 
 |----|-----|
-| Software | |
+| Software | .NET application running on MC3000 scanners (WinCE5). Produces valid text file for TMS BarCode Manager |
 | Hardware | Motorola MC3000 series scanners |
 | TMS BarCode Manager | Yes |
 | TMS Version | 2010 SP2 |
